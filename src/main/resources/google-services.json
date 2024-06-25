@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039218005096",
+    "project_id": "backend-6bce3",
+    "storage_bucket": "backend-6bce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039218005096:android:c27439d27346dc2d0417dd",
+        "android_client_info": {
+          "package_name": "com.stonks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxAi3G5PhEOmZlb7sFgcW__rZISevcO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039218005096:android:4dc4371fc24832840417dd",
+        "android_client_info": {
+          "package_name": "com.stonks.backend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxAi3G5PhEOmZlb7sFgcW__rZISevcO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
